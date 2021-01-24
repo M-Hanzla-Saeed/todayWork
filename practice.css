@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(184, 230, 163);
+}
+#hadi{
+    color: rgb(170, 39, 39);
+}
+
+ #hami{
+    color: green; }
+.container{
+    font-size: 30px;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: italic;
+}
+#heading1{
+    border: 4px solid rgb(0, 143, 12);
+    border-width: 3px;
+    border-radius: 10px;
+    text-align: center;
+    /* border-right-width: 5px;
+    border-left-width: 44px; */
+     margin: auto; 
+     width: 400px;
+     height: 200px;
+     color: rgb(0, 54, 82);
+     background-image: url("cat pic.jpg");
+     /* background-attachment: fixed; */
+     background-repeat: no-repeat;
+     background-position: center;
+     box-sizing: border-box;
+
+}
+.class {
+    color: blue;
+    border: 4px solid red; 
+    margin: auto;
+    background-image: linear-gradient(to left, red, yellow, green);              
+}
+.btn{   
+    /* color: rgb(43, 43, 88);
+    background-color: rgb(114, 108, 108); */
+    cursor: pointer;
+    padding: 25px;
+    margin: 50px auto;
+    font-size: 40px;
+    font-style: bold;
+    display: inline block;
+     text-align: center;
+     font-family: "Sofia";
+     font-size: 40px;
+    
+     /* display: inline-block; 
+    float: right; */
+    
+    
+
+}
+#red:hover{
+    background-color: white;
+    color: red;
+    border: 2px solid black;}
+
+#red{
+    background: red;
+    color: white;
+    
+}
+#green:hover{
+    background-color: white;
+    color:green;
+    border: 2px solid black;}
+
+#green{
+    background: green;
+    color: white;
+    
+}
+
+#blue:hover{
+    background-color: white;
+    color:blue;
+    border: 2px solid black;}
+
+#blue{
+    background: blue;
+    color: white;
+    
+}
+
+
+
